@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  Body {
+        background: #485563;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+       width:100%;
+       Margin: 0px;
+       Padding:0px;
+       font-family: Century-Gothic,Arial, Helvetica, sans-sherif;
+  }
+  header{
+        background: #606c88;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+                    height: 150px;
+                    width:100%;
+                    margin:0px;
+                    text-align: right;
+                    line-height: 50px;
+            color: silver;
+            Border-bottom: 2px solid black;
+            padding-bottom: 10px;
+        }
+  h1{
+       color: #000000;
+       margin-right: 20px;
+       font-size: 50px;
+       padding-top: 20px;
+  }
+  Nav{
+              Height: 10px;                  			           
+        color: black;
+        padding-bottom: 2px;
+                  }							 
+  nav ul li{
+                  float:left;
+            color: white;
+                    margin: 20px;
+            list-style-type: none;
+                    }
+  nav a{
+        border: 2px solid #000000;
+        text-decoration: none;
+        font-size: 15px;
+        display: inline-block;
+        color: #B0C4DE;
+        font: weight 25;
+        margin-top: 5px;
+        width: 150px;
+        border-radius: 5px;
+        text-align: center;
+        padding: 1px ;
+  }
+  a:hover{
+       background:#B0C4DE;
+       color: #000000;
+   }
+  .imagen{
+              width: 100%;
+            height: 1em;
+          }
+  .contacto{
+    width: 100%;
+    height: 25px;
+    color: #B0C4DE;
+    text-align: center;
+    position: absolute;
+  }
+  .wave{ 
+       background:#B0C4DE;
+       color: #000000;
+  }
+  footer{
+        background: #606c88;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+    } 

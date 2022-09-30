@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Carousel / Slider con Glider.js</title>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
+	<!-- quito esta linea porque no estoy publicada... necesito que sea local y le cambias la varsion que ya es 8
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.css">-->
+	<link rel="stylesheet" href="css/glider.min.css">
+	<link rel="stylesheet" href="css/carrousel.productos.3.css">
+</head>
+<body>
+	<div>
+		<img src="imagenes/apretonmanos.jpg" alt="Empresa" class="fondo">
+	</div>
+	<div class="contenedor">
+		<main class="contenido-principal">
+			<img src="imagenes/productos/flechas.jpg" alt="Empresa" class="contenido-principal__imagen">
+			<div class="contenido-principal__contenedor">
+				<h1 class="contenido-principal__titulo">LOGO DE EMPRESA AQUI</h1>
+				<p class="contenido-principal__resumen">
+					Descripcion empresa
+				</p>
+				<p class="contenido-principal__resumen">
+				    Slogan empresa
+				</p>
+			</div>
+	
+		</main>
+  
+		<div class="carousel">
+			<div class="carousel__contenedor">
+				<button aria-label="Anterior" class="carousel__anterior">
+					<i class="fas fa-chevron-left"></i>
+				</button>
+
+				<div class="carousel__lista">
+					<div class="carousel__elemento">
+						<img src="imagenes/productos/belleza.jpg" alt="BELLEZA" class='elemento'>
+						<p>BELLEZA</p>
+					</div>
+					<div class="carousel__elemento">
+						<img src="imagenes/productos/sillas-ruedas.jpg" alt="SALUD" class='elemento'>
+						<p> SALUD</p>
+					</div>
+					<div class="carousel__elemento">
+						<img src="imagenes/productos/telefonia.jpg" alt="TELEFONIA" class='elemento'>
+						<p>TELEFONIA</p>
+					</div>
+						<div class="carousel__elemento">
+						<img src="imagenes/productos/bolsas.jpg" alt="COMPRAS" class='elemento'>
+						<p>COMPRAS</p>
+					</div>
+			        <div class="carousel__elemento">
+						<img src="imagenes/productos/pan.jpg" alt="ALIMENTOS" class='elemento'>
+						<p>ALIMENTOS</p>
+					</div>
+			
+					<div class="carousel__elemento">
+						<img src="imagenes/productos/quimica.jpg" alt="INDUSTRIA" class='elemento'>
+						<p>INDUSTRIA</p>
+					</div>
+						<div class="carousel__elemento">
+						<img src="imagenes/productos/limpieza.jpg" alt="LIMPIEZA" class='elemento'>
+						<p>LIMPIEZA</p>
+					</div>
+					<div class="carousel__elemento">
+						<img src="imagenes/productos/automovil.jpg" alt="AUTOMOTRIZ" class='elemento'>
+						<p>AUTOMOTRIZ</p>
+					</div>
+			
+				</div>
+
+				<button aria-label="Siguiente" class="carousel__siguiente">
+					<i class="fas fa-chevron-right"></i>
+				</button>
+			</div>
+
+			<div role="tablist" class="carousel__indicadores"></div>
+		</div>
+	</div>
+	<!--esta es la original con internet pero pongo la local porque no estoy publicada y le cambias la version que ya es 8-->
+	<!--<script src="https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.js"></script>-->
+	<script src="js/glider.min.js"></script>
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+	<script src="js/app.js"></script>
+</body>
+</html>

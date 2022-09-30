@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  Body {
+       width:100%;
+       Margin: 0px;
+       Padding:0px;
+       font-family: Century-Gothic,Arial, Helvetica, sans-sherif;
+       background-color: #213c4a;
+  }
+  header{
+    height: 0px;
+    width:100%;
+    margin:0px;
+    padding-bottom: 2px;
+  }
+  .LOGO{
+    position: relative;
+    margin-top:10px;
+    width:100%;
+    display:flex;
+    overflow: hidden;
+    justify-content: left;
+    max-width: 100%;
+  }
+  .imagen{
+    width: 100%;
+    overflow: hidden;
+    }
+ .imagen1{
+     width: 100%;
+     height: 80px;
+    }						 
+nav ul li{
+    margin-top: 20px;
+    list-style-type: none;
+    display: inline-block;
+ } 
+    a:hover{
+    background:#B0C4DE;
+    color: #000000;
+     }
+       /* con el display:flex hacemos que se ajuste
+   al tamaño las dos cajas que especifique
+   y con el overflow:hidden las ajusata*/
+.cuerpo{
+    position: relative;
+    margin-top:180px;
+    width:100%;
+    height: 500px;
+    display:flex;
+    overflow: hidden;
+    justify-content: center;
+    max-width: 100%;
+}
+.box{
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    border: 0.5px solid #000000;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+#box1{
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+/*pantalla chica*/
+@media screen and (min-width:500px)
+{
+  .texto{
+  position: absolute;
+  top:90px;
+  left:10px;
+  margin:0px 50px 0px 50px;
+  text-align: justify;
+  color: #2E4053;
+  width: 70%;
+  font-size: 17px;
+  min-height: 40em;
+}
+.imagen2{
+  position: absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  opacity:0.3;
+  min-height:40em;
+  }
+  nav{
+    height: 1px;               			           
+    padding: 5px;
+    margin-bottom:20px;
+    padding-bottom: 20px;
+}	
+   nav a{
+      border: 2px solid #000000;
+      text-decoration: none;
+      font-size: 10px;
+      color: #B0C4DE;
+      font-size: 15px;
+      margin: 20px;
+      width: 100px;
+      border-radius: 5px;
+      text-align: center;
+      padding: 10px 5px 10px 5px ;
+   }
+}
+/*pantalla grande*/
+@media screen and (min-width:900px)
+{
+.texto{
+    position: absolute;
+    top:90px;
+    left:10px;
+    margin:0px 250px 0px 250px;
+    text-align: justify;
+    color: #2E4053;
+    width: 70%;
+    font-size: 20px;
+  }
+  .imagen2{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    opacity:0.3;
+  }
+  nav{
+    height: 1px;               			           
+    padding: 20px;
+    margin-bottom:20px;
+    padding-bottom: 20px;
+}	
+  nav a{
+    border: 2px solid #000000;
+    text-decoration: none;
+    font-size: 10px;
+    color: #B0C4DE;
+    font-size: 15px;
+    margin: 20px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px 10px 15px 10px ;
+    }
+}
+
+

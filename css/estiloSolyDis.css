@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.11">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">* {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>margin: 0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>padding: 0px;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">Body {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>Margin: 0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>Padding:0px;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">         </span></span></p>
+<p class="p1"><span class="s1">Body{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> background:white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> font-family: Century-Gothic,Arial, Helvetica, sans-sherif;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">#caja{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Width:1400px; <span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Margin:0px auto;<span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Border:1px solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">header{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background: silver;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:100%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>margin:0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>text-align: center;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>line-height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>color: #4b0082;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>border-bottom: 3px<span class="Apple-converted-space">  </span>solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>}</span></p>
+<p class="p1"><span class="s1">Nav{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>Background:white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>Height: 50px; <span class="Apple-converted-space">                 <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>            </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Border-bottom: 1px solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>color: black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> nav ul li{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">    </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>color: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>margin: 30px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>list-style-type: none;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>line-height: 10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>.clearfix{Clear:both }</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1">#cajaSolyDis{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:calc(38.5% - 20px);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background:#0B243B;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:100px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>padding:20px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}<span class="Apple-tab-span">	</span></span></p>
+<p class="p1"><span class="s1">img{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>float:right;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:calc(60% - 20px);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background:white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:200px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>padding:10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p1"><span class="s1">* {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>margin: 0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>padding: 0px;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">Body {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>Margin: 0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>Padding:0px;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">         </span></span></p>
+<p class="p1"><span class="s1">Body{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> background:white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> font-family: Century-Gothic,Arial, Helvetica, sans-sherif;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">#caja{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Width:1400px; <span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Margin:0px auto;<span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> Border:1px solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">header{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background: silver;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:100%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>margin:0px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>text-align: center;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>line-height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>color: #4b0082;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>border-bottom: 3px<span class="Apple-converted-space">  </span>solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>}</span></p>
+<p class="p1"><span class="s1">Nav{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>Background:white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>Height: 50px; <span class="Apple-converted-space">                 <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>            </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Border-bottom: 1px solid black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>color: black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">    </span>}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> nav ul li{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">    </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>color: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>margin: 30px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>list-style-type: none;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>line-height: 10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>.clearfix{Clear:both }</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1">#cajaSolyDis{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:calc(38.5% - 20px);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background:#0B243B;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:100px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>padding:20px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}<span class="Apple-tab-span">	</span></span></p>
+<p class="p1"><span class="s1">#imagenSolyDis{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>float:right;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>width:calc(60% - 20px);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>height:80%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>background:silver;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>display:block;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>border-radius:20px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>box-shadow:5 px 5px 1px #ccc;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:200px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>padding:10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p1"><span class="s1">div{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>with:100%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>backfround:#ccc;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">   </span>.article h2{ font-size:25px;}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>.article:first-child{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>padding-top:1px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>.article{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>color: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>margin-top: 15px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>margin-bottom: 15px;<span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>border-bottom: solid #BCA9F5;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>padding-bottom: 1px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">.clearfix{Clear:both }</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">aside{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Width: calc(40% - 20px);<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Padding:10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-converted-space">    </span>background: #D8BFD8;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:100px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1">footer{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>background: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>color: black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>text-align: center;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>line-height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-tab-span">	</span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">   </span>.article h2{ font-size:25px;}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>.article:first-child{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>padding-top:1px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span> <span class="Apple-converted-space">  </span>.article{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>color: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>margin-top: 15px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>margin-bottom: 15px;<span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>border-bottom: solid #BCA9F5;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">             </span>padding-bottom: 1px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1">.clearfix{Clear:both }</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>aside{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>float:left;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Width: calc(40% - 20px);<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">           </span>Padding:10px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-converted-space">    </span>background: #D8BFD8;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>min-height:100px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">   </span></span></p>
+<p class="p1"><span class="s1">footer{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>background: white;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>color: black;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>text-align: center;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>line-height: 50px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>}</span></p>
+</body>
+</html>

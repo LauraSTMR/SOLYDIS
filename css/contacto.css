@@ -1,0 +1,161 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+Body {
+     width:100%;
+     height:100%;
+     Margin: 0px;
+     Padding:0px;
+     font-family: Century-Gothic,Arial, Helvetica, sans-sherif;
+     background-color: #213c4a;
+}
+header{
+  height: 10px;
+  width:100%;
+  margin:0px;
+  padding-bottom: 2px;
+}
+.LOGO{
+  position: relative;
+  margin-top:10px;
+  width:100%;
+  display:flex;
+  overflow: hidden;
+  justify-content: left;
+  max-width: 100%;
+}
+.imagen{
+  width: 100%;
+  overflow: hidden;
+  }
+.imagen1{
+   width: 100%;
+   height: 80px;
+    }
+Nav{
+			Height: 15px;                  			           
+      color: black;
+      padding-bottom: 2px;
+			    }							 
+nav ul li{
+			    float:left;
+          color: white;
+				  margin: 10px 2px 5px 40px;
+          list-style-type: none;
+				  }
+a:hover{
+     background:#B0C4DE;
+     color: #000000;
+ }
+ .cuerpo{
+  position:absolute;
+  top:25%;
+  left:10;
+  width:100%;
+  height: 100%;
+  overflow: hidden;
+}
+.box{
+  width: 100%;
+  overflow: hidden;
+ }
+ #box1{
+  height: 100%;
+  width: 100%;
+ }
+  @media screen and (min-width:500px)
+  {
+     .contacto{ 
+        font-family: Century-Gothic,Arial, Helvetica, sans-sherif; 
+       font-size:  20px;
+       width:100%;
+       opacity: 1;
+       display: block;
+       text-decoration: none;
+      }
+ /*dejalo en absolute porque sino desaparece la imagen*/
+      .imagen2{  
+        position: absolute;
+        top:0px;
+        left:0px;
+        width:100%;
+        height:100%;
+        z-index: -1;
+    }
+    /* redes es el cuadro que tiene los contactos, el top y left llevan % o px*/
+     .redes{
+        position: absolute;
+        top:70px;
+        left:0px;
+        display: block;
+        margin:0px 250px 0px 50px;
+        text-align: justify;
+        width: 70%;
+        font-size: 20px;
+    }
+    nav a {
+        border: 2px solid #000000;
+        text-decoration: none;
+        font-size: 10px;
+        display: block;
+        background-color: #213c4a;
+        color: #D4E6F1;
+        margin: 5px;
+        width: 100px;
+        border-radius: 5px;
+        text-align: center;
+        padding: 5px 1px 5px 1px ;
+      }
+    .correo1{
+      font-size: 15px;
+      color:#213c4a;
+    }
+  }
+  
+  @media screen and (min-width:900px)
+  {
+    .contacto{ 
+      float: right;
+      font-family: Century-Gothic,Arial, Helvetica, sans-sherif; 
+      font-size:  35px;
+      width:100%;
+      opacity: 1;
+      display: block;
+      text-decoration: none;
+      }
+          /* redes es el cuadro que tiene los contactos, el top y left llevan % o px*/
+  .redes{
+      margin:0px 250px 0px 50px;
+      text-align: justify;
+      width: 70%;
+      font-size: 20px;
+      display:block;
+    }
+    /*dejalo en absolute porque sino desaparece la imagen*/
+    .imagen2{
+      position: absolute;
+      top:0px;
+      left:0px;
+      width:100%;
+      height:100%;
+      z-index: -1;
+    }
+    nav a {
+      border: 2px solid #000000;
+      text-decoration: none;
+      font-size: 15px;
+      display: inline-block;
+      color: #D4E6F1;
+      margin: 5px;
+      width: 100px;
+      border-radius: 5px;
+      text-align: center;
+      padding: 15px 2px 15px 2px ;
+     }
+.correo1{
+  font-size: 25px;
+  color:#213c4a;
+   }
+  }
